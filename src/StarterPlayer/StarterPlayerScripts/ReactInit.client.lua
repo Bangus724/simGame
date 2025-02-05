@@ -50,5 +50,5 @@ local MainFrame = React.createElement("Frame", holderFrame(), {
 
 })
 
-print(MainFrame)
+print()
 root:render(MainFrame)
